@@ -29,7 +29,7 @@ public class Day1 {
 	public void secondTest()
 	{
 		System.out.println("Bye");
-		
-
+		System.out.println("Bye 2");
+		System.out.println("Bye 3");
 	}
 }
