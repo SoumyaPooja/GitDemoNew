@@ -65,6 +65,11 @@ public class Day3 {
 		System.out.println("Just checking the develop brach");
 		System.out.println("Test Git commands");
 	}
+	public void APILoginCarLoanas()
+	{
+		System.out.println("APILoginCar");
+		System.out.println("Test Git commands");
+	}
 	@DataProvider
 	public Object[][] getData()
 	{
