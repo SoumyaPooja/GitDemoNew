@@ -55,6 +55,7 @@ public class Day3 {
 	public void APILoginCarLoan()
 	{
 		System.out.println("APILoginCar");
+		System.out.println("Test Git commands");
 	}
 	@DataProvider
 	public Object[][] getData()
