@@ -34,6 +34,11 @@ public class Day1 {
 		//aaaaaa
 		System.out.println("Bye 4");
 		System.out.println("Bye 5");
-		
+		//bbbbbbbbbb
+		System.out.println("Bye 6");
+		System.out.println("Bye 7");
+		System.out.println("Bye 8");
+		System.out.println("Bye 9");
+
 	}
 }
